@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="IDE_and_VCS Workflow_Project/IDE_and_VCS Workflow_Project.vcxproj" Id="1c897a81-3eb6-4d93-8993-22083937ae2e" />
+</Solution>
